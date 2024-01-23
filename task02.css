@@ -1,0 +1,76 @@
+.div1{
+ height: 70px;  width: 1000px;  background-color: #030637;
+}
+.h1{
+	padding-top: 0px;  padding-left: 30px;  font-family: sans-serif;  color:#52D3D8;
+}
+.div1-1{
+	height: 70px;width: 500px;float: left;
+}
+.div1-2{
+	height: 70px;width: 500px;float: right;
+}
+.p1{
+	color: #52D3D8;padding-right: 70px;float: right;font-size: 20px;
+}
+.div2{
+	height: 500px;  width: 1000px;  background-image: url("girl.jpg");  opacity: 0.63;  background-color: #030637;
+}
+.div2-1{
+	height: 500px;	width: 500px;	float: left;
+}
+.div2-2{
+	height: 500px;	width: 500px;	float: right;
+}
+.div3{
+	height: 370px;   width: 1000px; background-color: #030637;
+}
+.div3-1{
+	height: 370px;   width: 50px;  float: left;  
+}
+.div3-2{
+	height: 370px;   width: 300px;  float: left;  
+}
+.div3-3{
+	height: 370px;   width: 300px;  float: left; 
+}
+.div3-4{
+	height: 370px;   width: 300px;  float: left;  
+}
+.div3-5{
+	height: 370px;   width: 50px;  float: right;  
+}
+.div4{
+	height: 470px; width: 1000px; background-color: whitesmoke; background-color: #030637;
+}
+.div5{
+	height: 500px;  width: 1000px; background-color: whitesmoke; background-color: #030637;
+}
+.div5-1{
+	height: 250px;  width: 500px; float: left;
+}
+.div5-2{
+	height: 250px;  width: 500px;float: right;
+}
+.div5-3{
+	height: 250px;  width: 500px; float: left;
+}
+.div5-4{
+	height: 250px;  width: 500px; float: right;
+}
+.footerbottom{
+	background-color:#030637 ;
+	padding: 20px;
+	text-align: center;
+	width: 960px;
+}
+.footerbottom p{
+	color: white;
+}
+.designer{
+	opacity: 0.7;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 400;
+	margin: 0px 5px;
+}
